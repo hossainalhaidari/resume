@@ -1,12 +1,10 @@
 # HOSSAIN ALHAIDARI
-Professional software engineer with over 13 years of experience in web, mobile and desktop
-
 **Phone** +98 (919) 453-4587  
 **Email** alhaidari.hossain@gmail.com  
 **Website** https://hossain.al  
-Born at **21st March, 1991**  
-**Married** and living in **Arak, Iran**  
-Fluent in **English**, **Persian** and **Arabic**
+**Birthday** 21st March, 1991  
+**Status** Married, living in Arak, Iran  
+**Language** English, Persian, Arabic
 
 # TECHNOLOGY SUMMARY
 **Programming** Python, PHP, Java, Swift, C#, VB, Rust, Go, Lua  
@@ -34,13 +32,33 @@ Grade Percentage: **70%**
 Grade Percentage: **81%**
 
 # PROFESSIONAL EXPERIENCE
-**INCLOUD ENGINEERING GMBH** — *Software Engineer (JAN 2019 - DEC 2020)*  
-**SOKHAN** — *Chief Technical Officer (MAY 2018 - Now)*  
-**REALTYNA LLC** — *Head of Research and Development (FEB 2013 - APR 2018)*  
-**SEPAD INC** — *Senior Software Engineer (JAN 2017 - DEC 2017)*  
-**CHENAR STUDIO** — *Senior Software Engineer (JAN 2015 - DEC 2017)*  
-**RAYAFARHANG INSTITUTE** — *Chief Technical Officer (JAN 2007 - DEC 2012)*  
-**JETSOFT CO.** — *Chief Technical Officer (JAN 2005 - DEC 2012)*
+**INCLOUD ENGINEERING GMBH**  
+*Software Engineer*  
+*January 2019 - December 2020*  
+
+**SOKHAN**  
+*Chief Technical Officer*  
+*May 2018 - Now*  
+
+**REALTYNA LLC**  
+*Head of Research and Development*  
+*February 2013 - April 2018*  
+
+**SEPAD INC**  
+*Senior Software Engineer*  
+*January 2017 - December 2017*  
+
+**CHENAR STUDIO**  
+*Senior Software Engineer*  
+*January 2015 - December 2017*  
+
+**RAYAFARHANG INSTITUTE**  
+*Chief Technical Officer*  
+*January 2007 - December 2012*  
+
+**JETSOFT CO.**  
+*Chief Technical Officer*  
+*January 2005 - December 2012*
 
 # PROJECTS
 **Pastr**, Hobby — *Python, Flask*  
@@ -109,7 +127,7 @@ https://github.com/hossainalhaidari/pair
 https://cafebazaar.ir/app/ir.chenarstudio.pair  
 *An addictive game in which you have to pair the colors from both sides of the screen. It has multiple types of challenges and a highscore menu. Fully developed by myself.*  
 
-**Space Shooter**, *Chenar Studio — C#, Unity*  
+**Space Shooter**, Chenar Studio — *C#, Unity*  
 https://github.com/hossainalhaidari/spaceshooter  
 *A space shooter game. Fully developed by myself.*  
 
