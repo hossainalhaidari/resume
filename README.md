@@ -21,42 +21,42 @@
 **Modeling** UML, SSADM
 
 # EDUCATION
-**TONDGOOYAN HIGH SCHOOL**, Qom  
+**Tondgooyan High School**, Qom  
 *Mathematical Physics*  
 *October 2005 - July 2008*  
 Grade Percentage: **70%**
 
-**AIAU UNIVERSITY**, Markazi  
+**AIAU University**, Markazi  
 *BS in Software Engineering*  
 *October 2009 - November 2013*  
 Grade Percentage: **81%**
 
 # PROFESSIONAL EXPERIENCE
-**INCLOUD ENGINEERING GMBH**  
+**Incloud Engineering Gmbh**  
 *Software Engineer*  
 *January 2019 - December 2020*  
 
-**SOKHAN**  
+**Sokhan**  
 *Chief Technical Officer*  
 *May 2018 - Now*  
 
-**REALTYNA LLC**  
+**Realtyna LLC**  
 *Head of Research and Development*  
 *February 2013 - April 2018*  
 
-**SEPAD INC**  
+**Sepad Inc**  
 *Senior Software Engineer*  
 *January 2017 - December 2017*  
 
-**CHENAR STUDIO**  
+**Chenar Studio**  
 *Senior Software Engineer*  
 *January 2015 - December 2017*  
 
-**RAYAFARHANG INSTITUTE**  
+**Rayafarhang Institute**  
 *Chief Technical Officer*  
 *January 2007 - December 2012*  
 
-**JETSOFT CO.**  
+**JetSoft Co.**  
 *Chief Technical Officer*  
 *January 2005 - December 2012*
 
@@ -138,3 +138,15 @@ http://www.epoke.ir (defunct)
 **eChair**, Hobby — *PHP, MySQL*  
 http://www.echair.ir (defunct)  
 *A private social network platform. Fully developed by myself.*
+
+# ACHIEVEMENTS
+- Advised technical solutions and led multiple teams — Sokhan, Realtyna LLC, Sepad Inc.
+- Achieved excellent records on HR reports — Sokhan, Realtyna LLC, Sepad Inc.
+- Became the Chief Technical Officer — Sokhan, Rayafarhang Institute
+- Became the chief director of Research and Development department — Realtyna LLC
+- Became the chief director of Mobile department — Sokhan, Realtyna LLC
+- Became the Technical Vice President — Realtyna LLC
+- Became I/O manager for third-party API-based applications — Realtyna LLC
+- Became the supervisor of Real Estate MLS-based applications — Realtyna LLC
+- Achieved the 21st rank — National Computer Festival
+- Attended the A+ Essentials course — Imam Sadegh Institute
