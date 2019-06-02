@@ -61,7 +61,7 @@ Grade Percentage: **81%**
 *January 2005 - December 2012*
 
 # PROJECTS
-**Crisis Decision Making System**, Sokhan — *Java, Swing, Python, JavaScript, HTML, CSS*  
+**Crisis Decision Making System**, Sokhan — *Java, Swing, Python, JavaScript, Node.js, HTML, CSS*  
 https://sokhan.ai  
 *This project includes multiple sub-projects that was created to help making decisions after nature hazards. I was responsible for creating both the main API and the frontend application that connects to that API. The main API executes the processes for gathering information using AI from multiple sources (including image-based and text-based sources). The frontend app was created to view the result on a map and also execute certain commands.*  
 
