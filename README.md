@@ -61,10 +61,9 @@ Grade Percentage: **81%**
 *January 2005 - December 2012*
 
 # PROJECTS
-**Pastr**, Hobby — *Python, Flask*  
-https://pastr.xyz/  
-https://github.com/hossainalhaidari/pastr  
-*A minimal URL shortener and paste tool that has a dead-simple convention for using it.*  
+**Crisis Decision Making System**, Sokhan — *Java, Swing, Python, JavaScript, HTML, CSS*  
+https://sokhan.ai  
+*This project includes multiple sub-projects that was created to help making decisions after nature hazards. I was responsible for creating both the main API and the frontend application that connects to that API. The main API executes the processes for gathering information using AI from multiple sources (including image-based and text-based sources). The frontend app was created to view the result on a map and also execute certain commands.*  
 
 **Nava**, Sokhan — *Swift (iOS), Java (Android)*  
 https://sokhan.ai  
@@ -116,6 +115,11 @@ http://www.rayafarhang.ir (defunct)
 **Entrance Automation**, Rayafarhang Institute — *VB.NET, SQL Server*  
 http://www.rayafarhang.ir (defunct)  
 *A staff entrance automation and salary management application for corporate use. Fully developed by myself.*  
+
+**Pastr**, Hobby — *Python, Flask*  
+https://pastr.xyz/  
+https://github.com/hossainalhaidari/pastr  
+*A minimal URL shortener and paste tool that has a dead-simple convention for using it.*  
 
 **CheNote**, Chenar Studio — *Java (Android), SQLite*  
 https://github.com/hossainalhaidari/chenote  
