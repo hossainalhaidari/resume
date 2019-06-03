@@ -21,15 +21,15 @@
 **Modeling** UML, SSADM
 
 # EDUCATION
-**Tondgooyan High School**, Qom  
-*Mathematical Physics*  
-*October 2005 - July 2008*  
-Grade Percentage: **70%**
-
 **AIAU University**, Markazi  
 *BS in Software Engineering*  
 *October 2009 - November 2013*  
 Grade Percentage: **81%**
+
+**Tondgooyan High School**, Qom  
+*Mathematical Physics*  
+*October 2005 - July 2008*  
+Grade Percentage: **70%**
 
 # PROFESSIONAL EXPERIENCE
 **Incloud Engineering Gmbh**  
@@ -63,7 +63,7 @@ Grade Percentage: **81%**
 # PROJECTS
 **Crisis Decision Making System**, Sokhan — *Java, Swing, Python, JavaScript, Node.js, HTML, CSS*  
 https://sokhan.ai  
-*This project includes multiple sub-projects that was created to help making decisions after nature hazards. I was responsible for creating both the main API and the frontend application that connects to that API. The main API executes the processes for gathering information using AI from multiple sources (including image-based and text-based sources). The frontend app was created to view the result on a map and also execute certain commands.*  
+*This project includes multiple sub-projects that was created to help making decisions after nature hazards. I was responsible for creating both the main API and the frontend application that connects to that API. The main API executes the processes for gathering information from multiple sources (including image-based and text-based sources) and analysing data using AI and Bayesian Networks. The frontend app was created to view the result on a map and also execute certain commands.*  
 
 **Nava**, Sokhan — *Swift (iOS), Java (Android)*  
 https://sokhan.ai  
