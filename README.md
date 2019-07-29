@@ -61,15 +61,15 @@ Chief Technical Officer
 
 # PROJECTS
 **Crisis Decision Making System**, Sokhan — *Java, Swing, Python, JavaScript, Node.js, HTML, CSS*  
-https://sokhan.ai  
+https://www.sokhan.ai  
 *This project includes multiple sub-projects that was created to help making decisions after nature hazards. I was responsible for creating both the main API and the frontend application that connects to that API. The main API executes the processes for gathering information from multiple sources (including image-based and text-based sources) and analysing data using AI and Bayesian Networks. The frontend app was created to view the result on a map and also execute certain commands.*  
 
 **Nava**, Sokhan — *Swift (iOS), Java (Android)*  
-https://sokhan.ai  
+https://www.sokhan.ai  
 *Smart Personal Assistant application tailor-made for Iranian users (uses its own NLP technology connected through an API). I have refactored and developed this application.*  
 
 **IKAC**, Sokhan — *Swift (iOS), Java (Android)*  
-https://sokhan.ai  
+https://www.sokhan.ai  
 https://www.ikac.ir  
 *Built on top of Nava, this application is the official mobile application of Imam Khomeini Airport City. It borrows some of the personal assistant features of Nava plus other tools made specifically for the Airport. I have fully developed this application by myself.*  
 
@@ -116,23 +116,24 @@ http://www.rayafarhang.ir (defunct)
 *A staff entrance automation and salary management application for corporate use. Fully developed by myself.*  
 
 **Pastr**, Hobby — *Python, Flask*  
-https://pastr.xyz/  
 https://github.com/hossainalhaidari/pastr  
 *A minimal URL shortener and paste tool that has a dead-simple convention for using it.*  
 
 **CheNote**, Chenar Studio — *Java (Android), SQLite*  
 https://github.com/hossainalhaidari/chenote  
-https://cafebazaar.ir/app/ir.chenarstudio.chenote  
 *A dead-simple note taking app. Fully developed by myself.*  
 
 **Pair**, Chenar Studio — *Java (Android), libGDX*  
 https://github.com/hossainalhaidari/pair  
-https://cafebazaar.ir/app/ir.chenarstudio.pair  
 *An addictive game in which you have to pair the colors from both sides of the screen. It has multiple types of challenges and a highscore menu. Fully developed by myself.*  
 
 **Space Shooter**, Chenar Studio — *C#, Unity*  
 https://github.com/hossainalhaidari/spaceshooter  
 *A space shooter game. Fully developed by myself.*  
+
+**Filer**, Hobby — *Python, Django*  
+https://github.com/hossainalhaidari/filer  
+*A minimal web-based file manager. Fully developed by myself.*  
 
 **ePoke**, Hobby — *PHP, MySQL, Sharetronix*  
 http://www.epoke.ir (defunct)  
