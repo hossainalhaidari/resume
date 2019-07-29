@@ -144,13 +144,13 @@ http://www.echair.ir (defunct)
 *A private social network platform. Fully developed by myself.*
 
 # ACHIEVEMENTS
-- Advised technical solutions and led multiple teams — Sokhan, Realtyna LLC, Sepad Inc.
-- Achieved excellent records on HR reports — Sokhan, Realtyna LLC, Sepad Inc.
-- Became the Chief Technical Officer — Sokhan, Rayafarhang Institute
-- Became the chief director of Research and Development department — Realtyna LLC
-- Became the chief director of Mobile department — Sokhan, Realtyna LLC
-- Became the Technical Vice President — Realtyna LLC
-- Became I/O manager for third-party API-based applications — Realtyna LLC
-- Became the supervisor of Real Estate MLS-based applications — Realtyna LLC
-- Achieved the 21st rank — National Computer Festival
-- Attended the A+ Essentials course — Imam Sadegh Institute
+- Advised technical solutions and led multiple teams — *Sokhan, Realtyna LLC, Sepad Inc.*
+- Achieved excellent records on HR reports — *Sokhan, Realtyna LLC, Sepad Inc.*
+- Became the Chief Technical Officer — *Sokhan, Rayafarhang Institute*
+- Became the chief director of Research and Development department — *Realtyna LLC*
+- Became the chief director of Mobile department — *Sokhan, Realtyna LLC*
+- Became the Technical Vice President — *Realtyna LLC*
+- Became I/O manager for third-party API-based applications — *Realtyna LLC*
+- Became the supervisor of Real Estate MLS-based applications — *Realtyna LLC*
+- Achieved the 21st rank — *National Computer Festival*
+- Attended the A+ Essentials course — *Imam Sadegh Institute*
