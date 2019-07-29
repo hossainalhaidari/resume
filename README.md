@@ -32,25 +32,31 @@ Grade Percentage: **70%**
 
 # EXPERIENCES
 **Incloud Engineering Gmbh** — *January 2019 - December 2020*  
-https://www.incloud.de/
+https://www.incloud.de/  
 Software Engineer  
 
 **Sokhan** — *May 2018 - Now*  
+https://www.sokhan.ai  
 Chief Technical Officer  
 
 **Realtyna LLC** — *February 2013 - April 2018*  
+https://www.realtyna.com  
 Head of Research and Development  
 
 **Sepad Inc** — *January 2017 - December 2017*  
+https://www.sepad.com  
 Senior Software Engineer  
 
 **Chenar Studio** — *January 2015 - December 2017*  
+https://www.chenarstudio.ir  
 Senior Software Engineer  
 
 **Rayafarhang Institute** — *January 2007 - December 2012*  
+http://www.rayafarhang.com  
 Chief Technical Officer  
 
-**JetSoft Co.** — *January 2005 - December 2012*
+**JetSoft Co.** — *January 2005 - December 2012*  
+http://www.jetsoftco.com  
 Chief Technical Officer  
 
 # PROJECTS
