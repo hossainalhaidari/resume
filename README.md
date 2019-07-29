@@ -4,7 +4,7 @@
 **Birthday** 21st March, 1991  
 **Status** Married, living in Arak, Iran  
 **Languages** English, Persian, Arabic  
-**Profiles** (GitHub)[https://github.com/hossainalhaidari], (LinkedIn)[https://stackoverflow.com/users/926367/hossain-alhaidari], (Stack Overflow)[https://stackoverflow.com/users/926367/hossain-alhaidari]
+**Profiles** [GitHub](https://github.com/hossainalhaidari), [LinkedIn](https://stackoverflow.com/users/926367/hossain-alhaidari), [Stack Overflow](https://stackoverflow.com/users/926367/hossain-alhaidari)
 
 # SKILLS
 **Programming** Python, Java, Swift, C#, PHP, VB, Rust, Go  
