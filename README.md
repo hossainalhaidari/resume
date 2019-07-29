@@ -5,7 +5,7 @@
 **Status** Married, living in Arak, Iran  
 **Language** English, Persian, Arabic
 
-# TECHNOLOGY SUMMARY
+# SKILLS
 **Programming** Python, PHP, Java, Swift, C#, VB, Rust, Go, Lua  
 **Scripting and Markup** Shell Script, JavaScript, HTML, XML, YAML, TOML  
 **Framework** Laravel, Symfony, Django, Flask, Cement, ReactJS, .NET  
@@ -30,34 +30,28 @@ Grade Percentage: **81%**
 *October 2005 - July 2008*  
 Grade Percentage: **70%**
 
-# PROFESSIONAL EXPERIENCE
-**Incloud Engineering Gmbh**  
-*Software Engineer*  
-*January 2019 - December 2020*  
+# EXPERIENCES
+**Incloud Engineering Gmbh** — *January 2019 - December 2020*  
+https://www.incloud.de/
+Software Engineer  
 
-**Sokhan**  
-*Chief Technical Officer*  
-*May 2018 - Now*  
+**Sokhan** — *May 2018 - Now*  
+Chief Technical Officer  
 
-**Realtyna LLC**  
-*Head of Research and Development*  
-*February 2013 - April 2018*  
+**Realtyna LLC** — *February 2013 - April 2018*  
+Head of Research and Development  
 
-**Sepad Inc**  
-*Senior Software Engineer*  
-*January 2017 - December 2017*  
+**Sepad Inc** — *January 2017 - December 2017*  
+Senior Software Engineer  
 
-**Chenar Studio**  
-*Senior Software Engineer*  
-*January 2015 - December 2017*  
+**Chenar Studio** — *January 2015 - December 2017*  
+Senior Software Engineer  
 
-**Rayafarhang Institute**  
-*Chief Technical Officer*  
-*January 2007 - December 2012*  
+**Rayafarhang Institute** — *January 2007 - December 2012*  
+Chief Technical Officer  
 
-**JetSoft Co.**  
-*Chief Technical Officer*  
-*January 2005 - December 2012*
+**JetSoft Co.** — *January 2005 - December 2012*
+Chief Technical Officer  
 
 # PROJECTS
 **Crisis Decision Making System**, Sokhan — *Java, Swing, Python, JavaScript, Node.js, HTML, CSS*  
