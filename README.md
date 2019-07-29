@@ -6,14 +6,15 @@
 **Language** English, Persian, Arabic
 
 # SKILLS
-**Programming** Python, PHP, Java, Swift, C#, VB, Rust, Go, Lua  
+**Programming** Python, Java, Swift, C#, PHP, VB, Rust, Go  
 **Scripting and Markup** Shell Script, JavaScript, HTML, XML, YAML, TOML  
-**Framework** Laravel, Symfony, Django, Flask, Cement, ReactJS, .NET  
 **Platform** Android, iOS, Linux, Windows, macOS  
+**Framework** Django, Flask, Laravel, Symfony, ReactJS, .NET  
 **Version Control** Git, Subversion  
 **System Admin** Secure Shell, SMTP, BIND, Cron, UFW, fail2ban  
 **Web Server** Apache, Nginx, Node.js  
-**Database** MySQL, MongoDB, Redis, Elasticsearch, SQL Server, SQLite  
+**Database** MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, SQL Server, SQLite  
+**Message Broker** RabbitMQ  
 **Package Manager** NPM, Cargo, PyPI, Composer, Homebrew, Pacman, Aptitude  
 **DevOps** Docker, Jenkins, GitLab CI, Vagrant  
 **Game Development** Godot, Unity, libGDX  
