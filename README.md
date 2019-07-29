@@ -1,6 +1,5 @@
 # HOSSAIN ALHAIDARI
-**Phone** +98 (919) 453-4587  
-**Email** alhaidari.hossain@gmail.com  
+**Email** hossainalhaidari@pm.me  
 **Website** https://hossain.al  
 **Birthday** 21st March, 1991  
 **Status** Married, living in Arak, Iran  
