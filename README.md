@@ -33,10 +33,6 @@ Grade Percentage: **81%**
 Grade Percentage: **70%**
 
 # EXPERIENCES
-**Incloud Engineering Gmbh** — *January 2019 - December 2020*  
-https://www.incloud.de/  
-Software Engineer  
-
 **Sokhan** — *May 2018 - Now*  
 https://www.sokhan.ai  
 Chief Technical Officer  
