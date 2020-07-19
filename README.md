@@ -17,8 +17,8 @@ PostgreSQL, MongoDB, Redis, SQLite
 Rust, Go, Kubernetes, Helm, Godot, Unity, Elasticsearch  
 
 **Experienced but less interested in:**  
-VB, MySQL, SQL Server, Apache HTTP Server, Vagrant  
-Django, Laravel, Symfony, Windows, macOS  
+HTML, CSS, SCSS, VB, MySQL, SQL Server, Apache, Subversion  
+Vagrant, Jenkins, Django, Laravel, Symfony, Windows, macOS  
 
 # EDUCATION
 **AIAU University**, Markazi  
