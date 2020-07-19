@@ -13,11 +13,10 @@ Linux, Git, Docker, GitLab CI, Nginx, RabbitMQ
 Android, iOS, React, Node.js, .NET Core, Flask  
 PostgreSQL, MongoDB, Redis, SQLite  
 
-**Interested in but less experienced:**  
-Rust, Go, Kubernetes, Helm  
-Godot, Unity, Elasticsearch  
+**Interested but less experienced in:**  
+Rust, Go, Kubernetes, Helm, Godot, Unity, Elasticsearch  
 
-**Experienced but less interested**  
+**Experienced but less interested in:**  
 VB, MySQL, SQL Server, Apache HTTP Server, Vagrant  
 Django, Laravel, Symfony, Windows, macOS  
 
