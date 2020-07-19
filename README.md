@@ -7,19 +7,19 @@
 **Profiles** [GitHub](https://github.com/hossainalhaidari), [LinkedIn](https://www.linkedin.com/in/hossainalhaidari), [Stack Overflow](https://stackoverflow.com/users/926367/hossain-alhaidari)
 
 # SKILLS
-**Programming** Python, Java, Swift, C#, TypeScript, PHP, VB, Rust, Go  
-**Scripting and Markup** Shell Script, JavaScript, HTML, XML, YAML, TOML  
-**Platform** Android, iOS, Linux, Windows, macOS  
-**Framework** Django, Flask, Laravel, Symfony, ReactJS, .NET  
-**Version Control** Git, Subversion  
-**System Admin** Secure Shell, SMTP, BIND, Cron, UFW, fail2ban  
-**Web Server** Apache, Nginx, Node.js  
-**Database** MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, SQL Server, SQLite  
-**Message Broker** RabbitMQ  
-**Package Manager** Yarn, NPM, Cargo, PyPI, Composer, Homebrew, Pacman, Aptitude  
-**DevOps** Docker, Jenkins, GitLab CI, Vagrant  
-**Game Development** Godot, Unity, libGDX  
-**Modeling** UML, SSADM
+**Experienced and interested in:**  
+Java, Python, Swift, TypeScript, JavaScript, C#  
+Linux, Git, Docker, GitLab CI, Nginx, RabbitMQ  
+Android, iOS, React, Node.js, .NET Core, Flask  
+PostgreSQL, MongoDB, Redis, SQLite  
+
+**Interested in but less experienced:**  
+Rust, Go, Kubernetes, Helm  
+Godot, Unity, Elasticsearch  
+
+**Experienced but less interested**  
+VB, MySQL, SQL Server, Apache HTTP Server, Vagrant  
+Django, Laravel, Symfony, Windows, macOS  
 
 # EDUCATION
 **AIAU University**, Markazi  
