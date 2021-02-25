@@ -17,7 +17,7 @@ PostgreSQL, MongoDB, Redis, SQLite
 Rust, Go, Kubernetes, Helm, Godot, Unity, Elasticsearch  
 
 **Experienced but less interested in:**  
-HTML, CSS, SCSS, VB, MySQL, SQL Server, Apache, Subversion  
+HTML, CSS, SCSS, VB, PHP, MySQL, SQL Server, Apache, Subversion  
 Vagrant, Jenkins, Django, Laravel, Symfony, Windows, macOS  
 
 # EDUCATION
@@ -61,6 +61,14 @@ http://www.jetsoftco.com
 Chief Technical Officer  
 
 # PROJECTS
+**Arvato Courseware Marketplace**, Incloud — *TypeScript, React, HTML, SCSS*  
+https://arvato.courseware-marketplace.com  
+*TODO*  
+
+**Merck MPRD**, Incloud — *TypeScript, React, GraphQL, PostgreSQL, HTML, SCSS*  
+https://www.merckgroup.com  
+*TODO*  
+
 **Crisis Decision Making System**, Sokhan — *Java, Swing, Python, JavaScript, Node.js, HTML, CSS*  
 https://www.sokhan.ai  
 *This project includes multiple sub-projects that was created to help making decisions after nature hazards. I was responsible for creating both the main API and the frontend application that connects to that API. The main API executes the processes for gathering information from multiple sources (including image-based and text-based sources) and analysing data using AI and Bayesian Networks. The frontend app was created to view the result on a map and also execute certain commands.*  
